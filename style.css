@@ -1,0 +1,97 @@
+h2 {
+  margin: 0px;
+}
+html,
+body {
+  height: 100%;
+  background-repeat: repeat-y;
+  background-size: cover;
+  color: white;
+  margin: 0%;
+}
+.hidden {
+  display: none;
+}
+.border-dg {
+  border-radius: 20px;
+  border: solid;
+}
+
+.clock-font {
+  font-family: "Merienda", cursive;
+  font-size: 100px;
+}
+.wther-position {
+  bottom: 20px;
+}
+
+.clock-weather {
+  width: 500px;
+  height: 200px;
+  display: inline;
+  position: absolute;
+  right: 0;
+}
+.container {
+  width: 95%;
+  height: 90%;
+  position: fixed;
+  top: 5%;
+  left: 2%;
+}
+.login-box {
+  width: 450px;
+  height: 70px;
+  position: absolute;
+  right: 50px;
+  top: 20%;
+}
+.login-dg {
+  color: aliceblue;
+  font-size: 30px;
+  border: none;
+  background: none;
+  padding: 20px;
+  width: 60%;
+  outline: none;
+}
+
+.btn {
+  border: none;
+  width: 25%;
+  font-size: 30px;
+  color: aliceblue;
+  padding: 10px;
+  background: none;
+}
+
+.quote {
+  position: fixed;
+  bottom: 1%;
+  left: 2.5%;
+  font-weight: 300;
+}
+.todo-style {
+  text-align: center;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  width: 98.4%;
+  font-size: 30px;
+  color: aliceblue;
+  padding: 10px;
+  background: none;
+  outline: none;
+}
+.todo-box {
+  width: 68%;
+  height: 95%;
+  position: absolute;
+  top: 2%;
+  left: 1%;
+}
+
+.border-dg {
+  border-radius: 20px;
+  border: solid;
+}
